@@ -37,12 +37,15 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 </p>
 
+<br>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnrkfz&show_icons=true&locale=en&layout=compact" alt="gnrkfz" />
 </p>
 
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/ganarkfz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github" height="40" width="40" /></a>
+  <br>
 <a href="https://instagram.com/ganarkf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
