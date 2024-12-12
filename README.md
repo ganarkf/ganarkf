@@ -46,9 +46,9 @@
 
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/ganarkfz" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ganarkfz" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://instagram.com/ganarkf" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://instagram.com/ganarkf" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
 <br>
