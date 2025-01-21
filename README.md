@@ -52,4 +52,5 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnrkfz&label=Profile%20views&color=0e75b6&style=flat" alt="gnrkfz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganarkf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/stars/ganarkf?label=Total%20Stars&style=flat" alt="Total Stars" /> </p>
