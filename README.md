@@ -42,13 +42,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganarkf&theme=radical&hide_progress=true" alt="language-stats" />
 </p>
 
-<br>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ganarkf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
 <img src="https://img.shields.io/github/stars/ganarkf?label=Total%20Stars&style=flat" alt="Total Stars" /> 
 </p>
 
-<br>
 <p align="left">
 <a href="https://linkedin.com/in/ganarkfz" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
