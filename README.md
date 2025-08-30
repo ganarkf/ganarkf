@@ -39,7 +39,7 @@
 
 <br>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganarkf&theme=radical&hide_progress=true" alt="language-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganarkf&theme=tokyonight&hide_progress=true" alt="language-stats" />
 </p>
 
 <p align="left"> 
